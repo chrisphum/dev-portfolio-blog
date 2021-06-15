@@ -10,6 +10,41 @@ layout: default
                style="text-decoration: none">{{ site.author_name }}</a></h1>
         
         
+        <style>
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
+
+
+
+    <h1><a href="google.com" target="_blank">{{ site.author_name }}</a></h1>
+
+
+        
+        
+        
+        
+        
+        
+        
     </nav>
     <main class="sub-mid-section-cover">      
         {{ content }}
