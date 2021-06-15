@@ -6,7 +6,7 @@ layout: default
 <div class="mid-section-cover">
     <nav>
 
-        <center><h1><a href="google.com" style="color:#000000;text-decoration:none;">{{ site.author_name }}</a></h1></center>
+        <center><h1><a href="/" style="color:#000000;text-decoration:none;">{{ site.author_name }}</a></h1></center>
         
 
     </nav>
