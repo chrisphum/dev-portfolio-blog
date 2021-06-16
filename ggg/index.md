@@ -12,6 +12,7 @@ layout: default
     </nav>
     <main class="sub-mid-section-cover">      
         {{ content }}
+        <i>WHAT IS WRONG</i>
         
 
     </main>
