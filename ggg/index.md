@@ -12,8 +12,7 @@ layout: default
     </nav>
     <main class="sub-mid-section-cover">      
         {{ content }}
-       <p><span style="font-weight: 400;">My experience: Working at a digital marketing consultancy meant that I helped many companies run A/B tests. I assisted marketers with forming better testing protocols. I saw where some companies had trouble, and where others flourished. Here are 6 lessons I learned.</span></p>
-<p>&nbsp;</p>
+
 <p><strong>The goal is to learn about your customer, not just to lift conversion.</strong></p>
 <p><span style="font-weight: 400;">The goal of A/B testing is to learn about your customer. With that mindset, all A/B tests,&nbsp; even the failed ones, present a learning opportunity.&nbsp;</span></p>
 <p>&nbsp;</p>
