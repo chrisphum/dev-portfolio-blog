@@ -13,7 +13,7 @@ layout: default
     <main class="sub-mid-section-cover">      
         {{ content }}
 
-        
+         
 <h2 style="text-align: center;">&nbsp;&nbsp;</h2>
 <h2 style="text-align: center;">Visualizing and Mapping Restaurants in Portland</h2>
 <p style="text-align: justify;">Portland is a great city that I was fortunate to spend some time in this Summer. It's a city with an interesting vibe, and equally interesting restaurants. I came across a dataset provided by Yelp, and thought combing through the data would make for a fun project in data visualization. The dataset is a JSON file which contains (assumingly) all restaurants in Portland, along with attributes such as which cuisine they serve, and their GPS coordinates.</p>
