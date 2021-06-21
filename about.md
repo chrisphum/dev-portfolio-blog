@@ -12,7 +12,6 @@ layout: default
     </nav>
     <main class="sub-mid-section-cover">      
         {{ content }}
-     <body style="margin:0;padding:5px">
 
         
 <h2 style="text-align: center;">&nbsp;&nbsp;</h2>
@@ -26,7 +25,6 @@ layout: default
 <p style="text-align: justify;">&nbsp;&nbsp;</p>
 <p style="text-align: justify;">&nbsp;&nbsp;</p>
         
-        </body>
         
 <html>
 <head><meta charset="utf-8" />
