@@ -1,6 +1,7 @@
 ---
 title: Chris Humphrey
 layout: default
+permalink: /lead3/
 ---
 
 <div class="mid-section-cover" >
