@@ -129,7 +129,7 @@ assets:
   #   for a list of defaults
   # --
   sources:
-    - _assets/custom
+     - _assets/custom
   plugins:
      - jekyll-jupyter-notebook
     css: { autoprefixer: {}}
