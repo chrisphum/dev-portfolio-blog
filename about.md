@@ -11,6 +11,8 @@ layout: default
 
     </nav>
     <main class="sub-mid-section-cover">      
+        {% jupyter_notebook "Untitled.ipynb" %}
+
         {{ content }}
 
 
